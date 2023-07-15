@@ -1,0 +1,16 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Coustard&family=Lusitana:wght@400;700&family=Maitree:wght@400;700&family=Work+Sans:ital,wght@0,200;0,400;0,500;0,600;0,700;0,800;0,900;1,500;1,600;1,700&display=swap');
+
+*{
+    font-family: 'Coustard', serif;
+    font-family: 'Lusitana', serif;
+    font-family: 'Maitree', serif;
+    font-family: 'Work Sans', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.nav-container{
+    display: flex;
+    justify-content: space-around;
+}
